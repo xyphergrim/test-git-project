@@ -3,3 +3,5 @@ const object = {
 };
 
 object.name;
+
+// adding more comments for background
